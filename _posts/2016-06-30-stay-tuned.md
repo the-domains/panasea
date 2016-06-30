@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Stay tuned!
-datePublished: '2016-06-30T12:08:50.811Z'
-dateModified: '2016-06-30T12:08:49.941Z'
+datePublished: '2016-06-30T12:30:08.963Z'
+dateModified: '2016-06-30T12:20:55.849Z'
 title: ''
 author: []
 authors: []
 publisher: null
-starred: false
 sourcePath: _posts/2016-06-30-stay-tuned.md
+starred: true
 url: stay-tuned/index.html
 _type: Article
 
