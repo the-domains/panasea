@@ -1,5 +1,8 @@
+name: panaséa
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.42704
 title: panaséa
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8136413
-  brandStrength: 0.7781955
-  lightness: 0.3668098
   brandColors:
     - '#FFFFFF'
     - '#A1A1A1'
     - '#C8C8C8'
     - '#2A2D85'
     - '#55557D'
+  brandStrength: 0.5
+  lightness: 0.3668098
+  saturation: 0.8136413
   rhythmicContrast: 0.2850334
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: panaséa
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.42704
-layout_spectrum: 1
+purpose: []
