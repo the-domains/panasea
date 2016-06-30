@@ -1,7 +1,7 @@
 name: panaséa
 favicon: null
-layout_spectrum: 0.833772538928315
-typography_spectrum: 0.8983256148640066
+layout_spectrum: 1
+typography_spectrum: 0.42704
 title: panaséa
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.8565783021040261
-  lightness: 0.15705322613939643
-  saturation: 0.7291870519984514
+    - '#23306a'
+    - '#cccdcb'
+    - '#4a5481'
+    - '#6c6ca8'
+    - '#afadc3'
+  brandStrength: 0.9375
+  lightness: 0.1875
+  saturation: 0.75
   rhythmicContrast: 0.28503342950716615
 purpose: []
