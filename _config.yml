@@ -15,7 +15,7 @@ collections:
 color:
   saturation: 0.849087
   brandStrength: 0.2776584
-  lightness: 0.4559613
+  lightness: 0.5794844
   brandColors:
     - '#FFFFFF'
     - '#A1A1A1'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: UA-80116173-1
   facebook: null
-name: panaséa
 favicon: null
+name: panaséa
 opengraph:
   image: null
   type: null
