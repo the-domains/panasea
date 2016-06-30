@@ -22,7 +22,7 @@ color:
     - '#C8C8C8'
     - '#2A2D85'
     - '#55557D'
-  rhythmicContrast: 0.2991407
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: UA-80116173-1
   facebook: null
-favicon: null
 name: panaséa
+favicon: null
 opengraph:
   image: null
   type: null
