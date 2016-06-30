@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[panaséa]]></title>
         <description><![CDATA[panaséa]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://panasea.id/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 23:40:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 30 Jun 2016 23:40:14 GMT</lastBuildDate>
+        <atom:link href="http://panasea.id/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Apa itu Panaséa?]]></title>
+            <description><![CDATA[<article><h1>Apa itu Panaséa?</h1><p>Menurut Kamus Besar Bahasa Indonesia, panasea/pa·na·sea/panaséa/ berarti remedi bagi semua penyakit atau kesulitan; obat (mujarab)</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddeb2668-3830-4d85-bf99-3333bdbb1474.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddeb2668-3830-4d85-bf99-3333bdbb1474.jpg</link>
+            <guid isPermaLink="false">61cd90a9-ad2e-4bdc-8bf6-c5d3d817b71b</guid>
+            <pubDate>Thu, 30 Jun 2016 23:40:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gaya Hidup Sehat]]></title>
             <description><![CDATA[<article><h1>Gaya Hidup Sehat</h1><p>Kesehatan datang dari kebiasaan kita mengkonsumsi air minum sehat sehari-hari</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bafdc297-a613-4c2c-b7db-7b18a22e470e.jpg"></article>]]></description>
