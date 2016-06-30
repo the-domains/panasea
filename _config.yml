@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: UA-80116173-1
   facebook: null
-favicon: null
 name: panaséa
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.1756176
-layout_spectrum: 0.1315789
+layout_spectrum: 0.3958109
